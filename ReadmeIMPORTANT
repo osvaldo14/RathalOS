@@ -1,0 +1,7 @@
+/!\ IMPORTANT /!\
+
+Lors du commit s'intitulant : "avant le repas ON VA JAMAIS Y ARRIVER MAMÈNE TU LE C"
+
+Nous avions réussi à lancer une tâche (app.c) qui faisait un puts.
+
+Par la suite nous rencontrons une général protection nous empêchant de lancer la tâche qui fonctionnait auparavant.

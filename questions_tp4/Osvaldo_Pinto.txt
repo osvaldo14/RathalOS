@@ -1,0 +1,19 @@
+1.Depuis le début du cours, quels points vous ont demandés le plus plus de temps dans le développement de votre système d'exploitation et pourquoi ?
+
+Le tp4 dans son ensemble. Malgré le fait d'avoir compris assez bien la théorie (enfin je crois...) impossible de l'appliquer en code. 
+
+
+
+2.Quel travail pratique avez vous eu le plus de plaisir à réaliser et pourquoi ?
+Tp1 et 2, car on voyait le début de notre os, les progrès étaient visibles plus facilement.
+
+
+
+3.Quel travail pratique vous a le moins plus et pourquoi ?
+Le 3, car j'ai beaucoup de peine avec les systèmes de fichier. (J'avais déjà eu beaucoup de peine avec le cours de 2ème...)
+
+
+
+4.Si le temps le permettrait, quels seraient trois points/sujets que vous aimeriez développer en continuation de votre système d’exploitation et pourquoi ?
+
+J'aurais bien voulu avoir un tp sur la partie graphique.
